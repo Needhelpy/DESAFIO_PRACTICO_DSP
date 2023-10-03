@@ -1,0 +1,275 @@
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\CajeroWeb.dll.config
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\CajeroWeb.dll
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\CajeroWeb.pdb
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\roslyn\csc.exe
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\roslyn\csc.exe.config
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\roslyn\csc.rsp
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\roslyn\csi.exe
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\roslyn\csi.rsp
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\roslyn\vbc.exe
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\roslyn\vbc.exe.config
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\roslyn\vbc.rsp
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\System.Web.Helpers.dll
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\System.Web.Mvc.dll
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\System.Web.Razor.dll
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\System.Web.Webpages.dll
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\System.Web.Razor.xml
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\System.Web.Webpages.xml
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\System.Web.Helpers.xml
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\System.Web.Mvc.xml
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\es\System.Web.Razor.resources.dll
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\obj\Debug\CajeroWeb.csprojAssemblyReference.cache
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\obj\Debug\CajeroWeb.csproj.CoreCompileInputs.cache
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\obj\Debug\CajeroWeb.csproj.CopyComplete
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\obj\Debug\CajeroWeb.dll
+C:\Users\Claudia Figueroa\source\repos\CajeroWeb\obj\Debug\CajeroWeb.pdb
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\CajeroWeb.dll.config
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\CajeroWeb.dll
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\CajeroWeb.pdb
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\roslyn\csc.exe
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\roslyn\csc.exe.config
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\roslyn\csc.rsp
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\roslyn\csi.exe
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\roslyn\csi.rsp
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\roslyn\System.AppContext.dll
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\roslyn\vbc.exe
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\roslyn\vbc.exe.config
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\roslyn\vbc.rsp
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\System.Web.Helpers.dll
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\System.Web.Mvc.dll
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\System.Web.Razor.dll
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\System.Web.Webpages.dll
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\System.Web.Razor.xml
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\System.Web.Webpages.xml
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\System.Web.Helpers.xml
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\System.Web.Mvc.xml
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\es\System.Web.Razor.resources.dll
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\es\System.Web.Webpages.resources.dll
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\es\System.Web.Helpers.resources.dll
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\obj\Debug\CajeroWeb.csproj.AssemblyReference.cache
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\obj\Debug\CajeroWeb.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\obj\Debug\CajeroWeb.csproj.CopyComplete
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\obj\Debug\CajeroWeb.dll
+C:\Users\jonat\OneDrive - Universidad Don Bosco\Escritorio\CajeroWeb\obj\Debug\CajeroWeb.pdb
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\CajeroWeb.dll.config
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\CajeroWeb.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\CajeroWeb.pdb
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\roslyn\csc.exe
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\roslyn\csc.exe.config
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\roslyn\csc.rsp
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\roslyn\csi.exe
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\roslyn\csi.rsp
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\roslyn\System.AppContext.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\roslyn\System.Collections.Immutable.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\roslyn\System.IO.FileSystem.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\roslyn\System.Reflection.Metadata.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\roslyn\vbc.exe
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\roslyn\vbc.exe.config
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\roslyn\vbc.rsp
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\roslyn\VBCSCompiler.exe
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\roslyn\VBCSCompiler.exe.config
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\System.Web.Helpers.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\System.Web.Mvc.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\System.Web.Razor.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\System.Web.Webpages.Deployment.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\System.Web.Webpages.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\System.Web.Webpages.Razor.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\System.Web.Razor.xml
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\System.Web.Webpages.xml
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\System.Web.Webpages.Deployment.xml
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\System.Web.Webpages.Razor.xml
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\System.Web.Helpers.xml
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\System.Web.Mvc.xml
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\es\System.Web.Razor.resources.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\es\System.Web.Webpages.resources.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\es\System.Web.Webpages.Deployment.resources.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\es\System.Web.Webpages.Razor.resources.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\es\System.Web.Helpers.resources.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\bin\es\System.Web.Mvc.resources.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\obj\Debug\CajeroWeb.csproj.AssemblyReference.cache
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\obj\Debug\CajeroWeb.csproj.CoreCompileInputs.cache
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\obj\Debug\CajeroWeb.csproj.CopyComplete
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\obj\Debug\CajeroWeb.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia07\CajeroWeb\obj\Debug\CajeroWeb.pdb
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\CajeroWeb.dll.config
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\CajeroWeb.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\CajeroWeb.pdb
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\roslyn\csc.exe
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\roslyn\csc.exe.config
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\roslyn\csc.rsp
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\roslyn\csi.exe
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\roslyn\csi.rsp
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\roslyn\System.AppContext.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\roslyn\System.Collections.Immutable.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\roslyn\System.IO.FileSystem.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\roslyn\System.Reflection.Metadata.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\roslyn\vbc.exe
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\roslyn\vbc.exe.config
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\roslyn\vbc.rsp
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\roslyn\VBCSCompiler.exe
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\roslyn\VBCSCompiler.exe.config
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\System.Web.Helpers.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\System.Web.Mvc.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\System.Web.Razor.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\System.Web.Webpages.Deployment.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\System.Web.Webpages.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\System.Web.Webpages.Razor.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\System.Web.Razor.xml
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\System.Web.Webpages.xml
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\System.Web.Webpages.Deployment.xml
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\System.Web.Webpages.Razor.xml
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\System.Web.Helpers.xml
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\System.Web.Mvc.xml
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\es\System.Web.Razor.resources.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\es\System.Web.Webpages.resources.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\es\System.Web.Webpages.Deployment.resources.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\es\System.Web.Webpages.Razor.resources.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\es\System.Web.Helpers.resources.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\bin\es\System.Web.Mvc.resources.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\obj\Debug\CajeroWeb.csproj.AssemblyReference.cache
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\obj\Debug\CajeroWeb.csproj.CoreCompileInputs.cache
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\obj\Debug\CajeroWeb.csproj.CopyComplete
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\obj\Debug\CajeroWeb.dll
+E:\UDB_Ciclo2\DSP_Complementarios\VR230136_Guia08\CajeroWeb\obj\Debug\CajeroWeb.pdb
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\CajeroWeb.dll.config
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\CajeroWeb.dll
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\CajeroWeb.pdb
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\roslyn\csc.exe
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\roslyn\csc.exe.config
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\roslyn\csc.rsp
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\roslyn\csi.exe
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\roslyn\csi.rsp
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\roslyn\System.AppContext.dll
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\roslyn\vbc.exe
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\roslyn\vbc.exe.config
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\roslyn\vbc.rsp
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\System.Web.Helpers.dll
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\System.Web.Mvc.dll
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\System.Web.Razor.dll
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\System.Web.Webpages.dll
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\System.Web.Razor.xml
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\System.Web.Webpages.xml
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\System.Web.Helpers.xml
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\System.Web.Mvc.xml
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\es\System.Web.Razor.resources.dll
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\es\System.Web.Webpages.resources.dll
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\es\System.Web.Helpers.resources.dll
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\obj\Debug\CajeroWeb.csproj.AssemblyReference.cache
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\obj\Debug\CajeroWeb.csproj.CoreCompileInputs.cache
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\obj\Debug\CajeroWeb.csproj.CopyComplete
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\obj\Debug\CajeroWeb.dll
+C:\Users\UDB\Downloads\CajeroWeb-20231003T180941Z-001\CajeroWeb\obj\Debug\CajeroWeb.pdb
